@@ -2,12 +2,12 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+   - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to update data's
     runs-on: ubuntu-latest
 
     steps:
