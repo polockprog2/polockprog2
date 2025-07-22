@@ -40,8 +40,8 @@ An all-in-one platform connecting photographers, organizers, and clients.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirislampolock&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirislampolock&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=polockprog2&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polockprog2&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
