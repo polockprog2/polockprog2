@@ -1,18 +1,84 @@
-<h1 align="center">Hi 👋, I'm Samir Islam Polock</h1>
-<h3 align="center">A passionate software developer</h3>
+# 👋 Hi, I'm Samir Islam Polock
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polockprog2" alt="polockprog2" /></a> </p>
+🎓 Final-year B.Sc. (Honors) Student in Computer Science | 💻 Full-stack Developer | 🔬 Machine Learning Explorer | 🌏 From Bangladesh 🇧🇩
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/samir-islam-polock-5a304a238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samir-islam-polock-5a304a238" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🧠 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polockprog2&show_icons=true&locale=en&layout=compact" alt="polockprog2" /></p>
+- 🔭 I’m currently building:
+  - 🚀 **Corporate Calendar System** (React.js + Django) — like Google Calendar for corporate teams
+  - 🏥 **E-Hospital Management System** — patient and doctor records, appointment tracking
+  - 🍳 **Recipe Classification & Generation** using the **RecipeNLG** dataset with ML models (MLP, CatBoost, T5)
+- 📚 Internship at **Trust Bank Limited** — learned real-world HR & banking software
+- 🛠️ Tools I worked with: **Jira**, **Selenium**, **.NET Core**, **Google Colab**, **PostgreSQL**, **MySQL**
+- 🤖 Currently exploring: Microservices, QA Automation, and deploying family-based Web API tools
+- 💡 Personal Projects: 
+  - 🧑‍🤝‍🧑 A **family-only social platform** to store and share private family photos
+  - 🔌 **Local Freelance Platform (KajKhuji)** for tier-2/3 cities in Bangladesh
+- 💬 Ask me about: Django, React, .NET, QA, HR Tech, ML workflows, API testing
+- 📫 Reach me at: `samirislampolock@gmail.com`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polockprog2&show_icons=true&locale=en" alt="polockprog2" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polockprog2&" alt="polockprog2" /></p>
+## 💻 Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirislampolock&show_icons=true&theme=gruvbox&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirislampolock&layout=compact&theme=gruvbox)
+
+---
+
+## 🚀 Highlight Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| 🗓️ Corporate Calendar | Smart scheduler with employee movement tracking, venue booking, and project tasks (React + Django) |
+| 🧑‍⚕️ E-Hospital Management | Doctor-patient dashboard, records & admin roles |
+| 🧪 Recipe Classification | Achieved 91% accuracy using MLP & CatBoost on RecipeNLG dataset |
+| 👨‍👩‍👧‍👦 Family Photo Site | Private storage & access for family media using ASP.NET Web API |
+| 📲 Freelance Platform (KajKhuji) | Regional gig marketplace for Bangladeshi tier-2/3 cities |
+
+---
+
+## 🎯 Goals
+
+- 🔬 Publish research on **T5-based Recipe Generation**
+- 🧪 Shift into **QA Automation** & API Testing roles
+- 🚢 Deploy scalable **Microservices** systems (mail, engine, services)
+- 🧑‍🏫 Share my learnings through open-source and speaking
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samirislampolock@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/samirislampolock)
+
+---
+
+> 💡 *"The future belongs to those who code, share, and build with purpose."* — Samir Islam Polock
