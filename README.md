@@ -31,17 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-# 👋 Hi, I'm Samir Islam Polock
-
-🎓 Final-year student in Clinical Psychology at Rajshahi University  
-💻 Passionate Software Developer & AI Enthusiast  
-🌍 Based in Bangladesh  
-🔎 Exploring AI, Microservices, and Full Stack Development  
-
----
-
 ## 🚀 Projects
 - 🗓 **Corporate Calendar System** – Full calendar and project management platform using React.js + Django  
 - 🧠 **Lung Cancer Detection** – CNN-based model for image classification  
@@ -66,7 +55,6 @@
 
 ---
 
-## 📈 GitHub Stats
 ![Snake animation](https://github.com/polockprog2/polockprog2/blob/output/github-contribution-grid-snake.svg)
 ---
 
