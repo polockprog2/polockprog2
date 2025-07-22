@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif"/>
 </p>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#4ade80;">Samir Islam Polock</span></h1>
@@ -26,7 +26,7 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git,csharp,dotnet,tensorflow,mssql,java" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git,csharp,dotnet,tensorflow,java" />
 </p>
 
 ---
