@@ -65,4 +65,3 @@ An all-in-one platform connecting photographers, organizers, and clients.
 
 ---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
