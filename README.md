@@ -31,10 +31,6 @@
 ---
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://portfolio-github-io-fawn.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/samir-islam-polock-5a304a238" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -47,3 +43,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+add my portfolio link in this github repo.
+heres the link:https://portfolio-github-io-fawn.vercel.app/
