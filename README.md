@@ -147,11 +147,6 @@ class SamirIslamPolock:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polockprog2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38BDF8&icon_color=c084fc&text_color=c9d1d9" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polockprog2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" height="180px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polockprog2&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=6d28d9&fire=f472b6&currStreakLabel=38BDF8&sideLabels=c9d1d9&sideNums=c084fc&dates=6e7681" width="49%"/>
 </div>
 
