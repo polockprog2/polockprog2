@@ -25,19 +25,20 @@
 class SamirIslamPolock:
     name       = "Samir Islam Polock"
     role       = "Software Developer & AI/ML Enthusiast"
-    location   = "Bangladesh 🇧🇩"
+    location   = "Dhaka, Bangladesh"
     portfolio  = "https://portfolio-github-io-fawn.vercel.app/"
     email      = "samirislampolock18@gmail.com"
 
     interests  = [
         "Deep Learning",
         "Computer Vision",
-        "Full-Stack Development",
-        "Natural Language Processing"
+        "Frontend Development",
+        "Natural Language Processing",
+        "Quality Assurance"
     ]
 
     currently  = "Building impactful software & exploring AI frontiers"
-    fun_fact   = "I turn coffee into code ☕ → 💻"
+    fun_fact   = "I still Suck at Coding"
 ```
 
 ---
