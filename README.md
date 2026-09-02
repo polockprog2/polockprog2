@@ -172,7 +172,8 @@ Booking mesh linking clients, photogs, and organizers. Real-time slot management
 | `CHANNEL` | `ADDRESS` | `SIGNAL` |
 |:---------:|:---------:|:--------:|
 | ⚡ **PORTFOLIO** | [portfolio-github-io-fawn.vercel.app](https://portfolio-github-io-fawn.vercel.app/) | `▰▰▰▰▰ STRONG` |
-| 💼 **LINKEDIN** | [samir-islam-polock-5a304a238](https://www.linkedin.com/in/samir-islam-polock-5a304a238) | `▰▰▰▰▰ STRONG` |
+| ⚡ **LEETCODE** | [https://leetcode.com/u/polockprog2/](https://leetcode.com/u/polockprog2/) | `▰▰▰▰▰ STRONG` |
+| 💼 **LINKEDIN** | [samir-islam-polock](https://www.linkedin.com/in/samir-islam-polock-5a304a238) | `▰▰▰▰▰ STRONG` |
 | 📡 **COMM LINK** | [samirislampolock18@gmail.com](mailto:samirislampolock18@gmail.com) | `▰▰▰▰▰ ACTIVE` |
 | 🐙 **GITHUB** | [polockprog2](https://github.com/polockprog2) | `▰▰▰▰▰ ONLINE` |
 
