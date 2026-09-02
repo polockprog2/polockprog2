@@ -172,11 +172,6 @@ Booking mesh linking clients, photogs, and organizers. Real-time slot management
 ## `⚡ // SYSTEM METRICS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polockprog2&show_icons=true&theme=merko&hide_border=true&bg_color=050a14&title_color=00fff2&icon_color=ff2d78&text_color=c8f0ee&ring_color=ff2d78" height="175px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polockprog2&layout=compact&theme=merko&hide_border=true&bg_color=050a14&title_color=00fff2&text_color=c8f0ee" height="175px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polockprog2&theme=merko&hide_border=true&background=050a14&stroke=00fff2&ring=ff2d78&fire=f5e642&currStreakLabel=00fff2&sideLabels=c8f0ee&sideNums=ff2d78&dates=556060"/>
 </div>
 
@@ -184,15 +179,6 @@ Booking mesh linking clients, photogs, and organizers. Real-time slot management
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=polockprog2&bg_color=050a14&color=00fff2&line=ff2d78&point=f5e642&area_color=0a1628&area=true&hide_border=true" width="98%"/>
 </div>
 
----
-
-## `⚡ // TROPHY RACK`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=polockprog2&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-</div>
-
----
 
 ## `⚡ // UPLINK CHANNELS`
 
