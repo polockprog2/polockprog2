@@ -155,9 +155,13 @@ Booking mesh linking clients, photogs, and organizers. Real-time slot management
 ```
  PYTHON      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  92%  [ ACTIVE ]
  REACT       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  86%  [ ACTIVE ]
+ NEXT.JS     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  85%  [ ACTIVE ]
  DJANGO      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  [ ACTIVE ]
  TENSORFLOW  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  80%  [ ACTIVE ]
+ PRISMA      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  78%  [ ACTIVE ]
+ SUPABASE    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  80%  [ ACTIVE ]
  MYSQL       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  85%  [ ACTIVE ]
+ SOCKET.IO   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱  76%  [ ACTIVE ]
  JAVA        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱  75%  [ ACTIVE ]
  C# / .NET   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱  72%  [ ACTIVE ]
  GIT         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  93%  [ ACTIVE ]
