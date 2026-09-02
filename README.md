@@ -14,8 +14,11 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-00fff2?style=flat-square&logo=python&logoColor=050a14)
 ![React](https://img.shields.io/badge/REACT-ff2d78?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-050a14?style=flat-square&logo=nextdotjs&logoColor=00fff2)
 ![Django](https://img.shields.io/badge/DJANGO-f5e642?style=flat-square&logo=django&logoColor=050a14)
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-ff00a0?style=flat-square&logo=tensorflow&logoColor=white)
+![Prisma](https://img.shields.io/badge/PRISMA-00fff2?style=flat-square&logo=prisma&logoColor=050a14)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=050a14)
 ![MySQL](https://img.shields.io/badge/MYSQL-00fff2?style=flat-square&logo=mysql&logoColor=050a14)
 ![Git](https://img.shields.io/badge/GIT-ff2d78?style=flat-square&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-f5e642?style=flat-square&logo=openjdk&logoColor=050a14)
@@ -34,7 +37,8 @@ class CyberDev:
     uplink    = "https://portfolio-github-io-fawn.vercel.app/"
     comm      = "samirislampolock18@gmail.com"
     implants  = ["Deep Learning", "Computer Vision", "NLP", "Full-Stack Dev"]
-    stack     = ["Python", "React.js", "Django", "TensorFlow", "MySQL", "Java", "C#"]
+    stack     = ["Python", "React.js", "Next.js", "Django", "TensorFlow",
+                 "Prisma", "Supabase", "MySQL", "Java", "C#"]
     mission   = "Build useful software. Break limits. Stay wired."
     # ☕ → 💻  neural lace installed · always learning · coffee-to-code pipeline active
 ```
@@ -44,6 +48,27 @@ class CyberDev:
 ## `⚡ // MISSION LOG`
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+```
+╔════════════════════════════════════════════════════════╗
+║  // MISSION_00  🛒  [ FLAGSHIP · LIVE IN PROD ]         ║
+║  FULL-STACK E-COMMERCE PLATFORM                         ║
+╚════════════════════════════════════════════════════════╝
+```
+Complete storefront-to-checkout system. Stripe payment rails with atomic order/inventory sync, a real-time support-chat mesh, and a hand-built animated SVG hero sequence. Deployed as a dual-node Next.js monorepo across separate Vercel edges, backed by pooled Supabase Postgres connections for serverless compatibility.
+
+![Next.js](https://img.shields.io/badge/NEXT.JS-050a14?style=flat-square&logo=nextdotjs&logoColor=00ffa0)
+![Prisma](https://img.shields.io/badge/PRISMA-00ffa0?style=flat-square&logo=prisma&logoColor=050a14)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=050a14)
+![Socket.IO](https://img.shields.io/badge/SOCKET.IO-00ffa0?style=flat-square&logo=socketdotio&logoColor=050a14)
+![Stripe](https://img.shields.io/badge/STRIPE-00ffa0?style=flat-square&logo=stripe&logoColor=050a14)
+
+[![ENGAGE](https://img.shields.io/badge/%E2%86%92%20ENGAGE-050a14?style=flat-square&color=00ffa0)](https://portfolio-github-io-fawn.vercel.app/)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
